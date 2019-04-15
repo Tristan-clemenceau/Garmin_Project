@@ -1,0 +1,10 @@
+<strings>
+    <string id="AppName">SwitchView</string>
+
+    <string id="prompt">Click the menu button</string>
+
+    <string id="menu_label_1">Item 1</string>
+    <string id="menu_label_2">Item 2</string>
+    <string id="url_Serveur">https://webdev.iut-orsay.fr/moveit/testJson.php</string>
+  <!--    <string id="url_Serveur">https://limsiwenner.000webhostapp.com/testJson.php</string> -->
+</strings>

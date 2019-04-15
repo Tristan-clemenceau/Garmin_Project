@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<pcToLineNum>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="3" lineNum="21" pc="268435456" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="3" lineNum="22" pc="268435460" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="3" lineNum="23" pc="268435478" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="3" lineNum="24" pc="268435514" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="4" lineNum="27" pc="268435556" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="4" lineNum="28" pc="268435560" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="31" pc="268435598" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="33" pc="268435602" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="34" pc="268435632" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="35" pc="268435662" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="36" pc="268435692" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="37" pc="268435722" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="5" lineNum="39" pc="268435752" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="43" pc="268435765" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="45" pc="268435769" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="46" pc="268435799" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="47" pc="268435829" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="48" pc="268435859" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="49" pc="268435889" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="6" lineNum="51" pc="268435919" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="54" pc="268435940" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="55" pc="268435944" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="56" pc="268435998" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="58" pc="268436069" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="59" pc="268436092" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="61" pc="268436148" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="63" pc="268436177" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="65" pc="268436206" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="66" pc="268436237" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="7" lineNum="68" pc="268436272" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="71" pc="268436289" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="72" pc="268436293" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="73" pc="268436300" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="74" pc="268436330" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="77" pc="268436346" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="78" pc="268436376" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="80" pc="268436417" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="8" lineNum="83" pc="268436449" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewView.mc" id="9" lineNum="86" pc="268436477" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="11" lineNum="5" pc="268436482" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="11" lineNum="6" pc="268436486" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="12" lineNum="9" pc="268436505" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="12" lineNum="10" pc="268436509" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="13" lineNum="13" pc="268436513" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="13" lineNum="14" pc="268436517" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="14" lineNum="17" pc="268436521" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="14" lineNum="18" pc="268436525" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="15" lineNum="21" pc="268436529" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="15" lineNum="22" pc="268436533" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="16" lineNum="25" pc="268436537" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="16" lineNum="26" pc="268436541" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="17" lineNum="29" pc="268436545" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="17" lineNum="30" pc="268436549" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="17" lineNum="31" pc="268436614" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="18" lineNum="34" pc="268436618" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserDelegate.mc" id="18" lineNum="35" pc="268436622" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="20" lineNum="5" pc="268436626" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="20" lineNum="6" pc="268436630" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="21" lineNum="9" pc="268436649" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="21" lineNum="10" pc="268436653" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="22" lineNum="13" pc="268436657" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="22" lineNum="14" pc="268436661" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="22" lineNum="15" pc="268436726" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="23" lineNum="18" pc="268436730" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="23" lineNum="19" pc="268436734" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="24" lineNum="22" pc="268436738" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="24" lineNum="23" pc="268436742" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="25" lineNum="26" pc="268436746" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="25" lineNum="27" pc="268436750" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="26" lineNum="30" pc="268436754" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="26" lineNum="31" pc="268436758" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="27" lineNum="34" pc="268436762" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewDelegate.mc" id="27" lineNum="35" pc="268436766" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="29" lineNum="6" pc="268436770" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="29" lineNum="7" pc="268436774" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="30" lineNum="10" pc="268436793" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="30" lineNum="11" pc="268436797" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="30" lineNum="12" pc="268436808" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="30" lineNum="13" pc="268436832" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewMenuDelegate.mc" id="30" lineNum="14" pc="268436843" symbol="onMenuItem"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="32" lineNum="10" pc="268436868" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="32" lineNum="11" pc="268436872" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="33" lineNum="14" pc="268436891" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="33" lineNum="15" pc="268436895" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="34" lineNum="18" pc="268436933" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="21" pc="268436938" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="23" pc="268436942" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="24" pc="268436972" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="25" pc="268437002" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="27" pc="268437032" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="28" pc="268437055" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="29" pc="268437078" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="35" lineNum="31" pc="268437101" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View02.mc" id="36" lineNum="34" pc="268437122" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="38" lineNum="5" pc="268437127" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="38" lineNum="6" pc="268437131" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="39" lineNum="9" pc="268437150" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="39" lineNum="10" pc="268437154" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="40" lineNum="13" pc="268437158" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="40" lineNum="14" pc="268437162" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="40" lineNum="15" pc="268437227" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="41" lineNum="18" pc="268437231" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="41" lineNum="19" pc="268437235" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="41" lineNum="20" pc="268437300" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="42" lineNum="23" pc="268437304" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="42" lineNum="24" pc="268437308" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="42" lineNum="25" pc="268437373" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="43" lineNum="28" pc="268437377" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="43" lineNum="29" pc="268437381" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="44" lineNum="32" pc="268437385" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="44" lineNum="33" pc="268437389" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="44" lineNum="34" pc="268437413" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="45" lineNum="37" pc="268437417" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate02.mc" id="45" lineNum="38" pc="268437421" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="47" lineNum="5" pc="268437425" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="47" lineNum="6" pc="268437429" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="48" lineNum="9" pc="268437448" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="48" lineNum="10" pc="268437452" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="49" lineNum="13" pc="268437456" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="49" lineNum="14" pc="268437460" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="49" lineNum="15" pc="268437525" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="50" lineNum="18" pc="268437529" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="50" lineNum="19" pc="268437533" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="50" lineNum="20" pc="268437598" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="51" lineNum="23" pc="268437602" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="51" lineNum="24" pc="268437606" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="51" lineNum="25" pc="268437671" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="52" lineNum="28" pc="268437675" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="52" lineNum="29" pc="268437679" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="53" lineNum="32" pc="268437683" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="53" lineNum="33" pc="268437687" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="53" lineNum="34" pc="268437711" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="54" lineNum="37" pc="268437715" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate03.mc" id="54" lineNum="38" pc="268437719" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="56" lineNum="10" pc="268437723" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="56" lineNum="11" pc="268437727" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="57" lineNum="14" pc="268437746" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="57" lineNum="15" pc="268437750" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="58" lineNum="18" pc="268437788" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="21" pc="268437793" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="23" pc="268437797" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="24" pc="268437827" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="25" pc="268437857" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="27" pc="268437887" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="28" pc="268437910" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="29" pc="268437933" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="59" lineNum="31" pc="268437956" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View03.mc" id="60" lineNum="34" pc="268437977" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="62" lineNum="5" pc="268437982" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="62" lineNum="6" pc="268437986" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="63" lineNum="9" pc="268438005" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="63" lineNum="10" pc="268438009" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="64" lineNum="13" pc="268438013" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="64" lineNum="14" pc="268438017" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="64" lineNum="15" pc="268438082" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="65" lineNum="18" pc="268438086" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="65" lineNum="19" pc="268438090" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="65" lineNum="20" pc="268438155" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="66" lineNum="23" pc="268438159" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="66" lineNum="24" pc="268438163" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="66" lineNum="25" pc="268438228" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="67" lineNum="28" pc="268438232" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="67" lineNum="29" pc="268438236" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="68" lineNum="32" pc="268438240" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="68" lineNum="33" pc="268438244" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="68" lineNum="34" pc="268438268" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="69" lineNum="37" pc="268438272" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate04.mc" id="69" lineNum="38" pc="268438276" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="71" lineNum="5" pc="268438280" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="71" lineNum="6" pc="268438284" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="72" lineNum="9" pc="268438303" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="72" lineNum="10" pc="268438307" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="73" lineNum="13" pc="268438311" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="73" lineNum="14" pc="268438315" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="74" lineNum="17" pc="268438319" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="74" lineNum="18" pc="268438323" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="75" lineNum="21" pc="268438327" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="75" lineNum="22" pc="268438331" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="76" lineNum="25" pc="268438335" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="76" lineNum="26" pc="268438339" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="77" lineNum="29" pc="268438343" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="77" lineNum="30" pc="268438347" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="77" lineNum="31" pc="268438412" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="78" lineNum="34" pc="268438416" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsDelegate.mc" id="78" lineNum="35" pc="268438420" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="80" lineNum="15" pc="268438424" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="80" lineNum="16" pc="268438428" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="81" lineNum="19" pc="268438447" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="81" lineNum="20" pc="268438451" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="82" lineNum="23" pc="268438489" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="26" pc="268438494" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="27" pc="268438498" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="29" pc="268438510" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="30" pc="268438540" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="31" pc="268438570" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="32" pc="268438600" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="34" pc="268438630" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="35" pc="268438653" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="36" pc="268438700" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="37" pc="268438729" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="83" lineNum="39" pc="268438779" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="42" pc="268438800" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="43" pc="268438804" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="44" pc="268438827" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="45" pc="268438843" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="46" pc="268438866" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="84" lineNum="48" pc="268438882" symbol="define"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="85" lineNum="52" pc="268438896" symbol="pourcentage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="85" lineNum="53" pc="268438900" symbol="pourcentage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="56" pc="268438940" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="57" pc="268438944" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="58" pc="268438951" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="59" pc="268438992" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="60" pc="268439002" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="61" pc="268439081" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="63" pc="268439091" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="86" lineNum="65" pc="268439098" symbol="avancement"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\UserView.mc" id="87" lineNum="68" pc="268439102" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="89" lineNum="5" pc="268439107" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="89" lineNum="6" pc="268439111" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="90" lineNum="9" pc="268439130" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="90" lineNum="10" pc="268439134" symbol="onMenu"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="91" lineNum="13" pc="268439138" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="91" lineNum="14" pc="268439142" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="91" lineNum="15" pc="268439207" symbol="onNextPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="92" lineNum="18" pc="268439211" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="92" lineNum="19" pc="268439215" symbol="onSelect"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="93" lineNum="22" pc="268439219" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="93" lineNum="23" pc="268439223" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="93" lineNum="24" pc="268439288" symbol="onPreviousPage"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="94" lineNum="27" pc="268439292" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="94" lineNum="28" pc="268439296" symbol="onPreviousMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="95" lineNum="31" pc="268439300" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="95" lineNum="32" pc="268439304" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="95" lineNum="33" pc="268439369" symbol="onBack"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="96" lineNum="36" pc="268439373" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\Delegate05.mc" id="96" lineNum="37" pc="268439377" symbol="onNextMode"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="16" pc="268439381" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="17" pc="268439385" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="18" pc="268439403" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="19" pc="268439416" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="20" pc="268439429" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="98" lineNum="21" pc="268439465" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="99" lineNum="24" pc="268439507" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="99" lineNum="25" pc="268439511" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="100" lineNum="29" pc="268439549" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="101" lineNum="34" pc="268439554" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="101" lineNum="36" pc="268439558" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="101" lineNum="38" pc="268439588" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="41" pc="268439609" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="42" pc="268439613" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="43" pc="268439630" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="44" pc="268439643" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="45" pc="268439662" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="47" pc="268439683" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="48" pc="268439702" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="102" lineNum="50" pc="268439731" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="54" pc="268439748" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="55" pc="268439752" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="56" pc="268439759" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="57" pc="268439766" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="58" pc="268439783" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="61" pc="268439811" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="63" pc="268439830" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="64" pc="268439847" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="67" pc="268439875" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="103" lineNum="70" pc="268439894" symbol="verifyTime"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View05.mc" id="104" lineNum="73" pc="268439925" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="106" lineNum="10" pc="268439930" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="106" lineNum="11" pc="268439934" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="107" lineNum="14" pc="268439953" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="107" lineNum="15" pc="268439957" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="108" lineNum="18" pc="268439995" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="21" pc="268440000" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="23" pc="268440004" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="24" pc="268440034" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="25" pc="268440064" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="27" pc="268440094" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="28" pc="268440117" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="29" pc="268440140" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="109" lineNum="31" pc="268440163" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\View04.mc" id="110" lineNum="34" pc="268440184" symbol="onHide"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="112" lineNum="6" pc="268440189" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="112" lineNum="7" pc="268440193" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="113" lineNum="10" pc="268440212" symbol="onStart"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="114" lineNum="13" pc="268440217" symbol="onStop"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="115" lineNum="16" pc="268440222" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\SwitchViewApp.mc" id="115" lineNum="17" pc="268440226" symbol="getInitialView"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="117" lineNum="21" pc="268440294" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="117" lineNum="22" pc="268440298" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="117" lineNum="23" pc="268440316" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="117" lineNum="24" pc="268440358" symbol="initialize"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="118" lineNum="27" pc="268440391" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="118" lineNum="28" pc="268440395" symbol="onLayout"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="119" lineNum="31" pc="268440433" symbol="onShow"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="34" pc="268440438" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="36" pc="268440442" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="37" pc="268440472" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="38" pc="268440502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="39" pc="268440532" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="41" pc="268440562" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="120" lineNum="42" pc="268440574" symbol="onUpdate"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="45" pc="268440595" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="46" pc="268440599" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="47" pc="268440612" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="48" pc="268440625" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="50" pc="268440654" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="51" pc="268440679" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="53" pc="268440705" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="121" lineNum="54" pc="268440717" symbol="onSensor"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="57" pc="268440734" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="59" pc="268440738" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="60" pc="268440769" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="62" pc="268440797" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="63" pc="268440820" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="64" pc="268440864" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="66" pc="268440938" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="67" pc="268440958" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="122" lineNum="68" pc="268440970" symbol="refresh"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="73" pc="268440990" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="74" pc="268440994" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="76" pc="268441031" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="83" pc="268441310" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="88" pc="268441353" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="123" lineNum="94" pc="268441415" symbol="makeRequest"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="124" lineNum="98" pc="268441456" symbol="onReceive"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="124" lineNum="100" pc="268441460" symbol="onReceive"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="124" lineNum="101" pc="268441471" symbol="onReceive"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="124" lineNum="104" pc="268441497" symbol="onReceive"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="125" lineNum="109" pc="268441521" symbol="calculateCal"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="125" lineNum="110" pc="268441525" symbol="calculateCal"/>
+<entry filename="C:\\Users\\Tristan\\eclipse-workspace\\SwitchView\\source\\StatsView.mc" id="126" lineNum="114" pc="268441547" symbol="onHide"/>
+<entry filename="Rez" id="132" lineNum="17" pc="268441552" symbol="initialize"/>
+<entry filename="Rez" id="132" lineNum="18" pc="268441556" symbol="initialize"/>
+<entry filename="Rez" id="132" lineNum="19" pc="268441574" symbol="initialize"/>
+<entry filename="Rez" id="132" lineNum="20" pc="268441626" symbol="initialize"/>
+<entry filename="Rez" id="135" lineNum="42" pc="268441679" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="46" pc="268441691" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="47" pc="268441845" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="48" pc="268441999" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="49" pc="268442183" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="50" pc="268442216" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="51" pc="268442268" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="52" pc="268442314" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="53" pc="268442468" symbol="MainLayout"/>
+<entry filename="Rez" id="135" lineNum="56" pc="268442569" symbol="MainLayout"/>
+<entry filename="Rez" id="136" lineNum="67" pc="268442627" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="71" pc="268442639" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="72" pc="268442808" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="73" pc="268442841" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="74" pc="268442893" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="75" pc="268443077" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="76" pc="268443110" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="77" pc="268443162" symbol="MainLayout02"/>
+<entry filename="Rez" id="136" lineNum="80" pc="268443208" symbol="MainLayout02"/>
+<entry filename="Rez" id="137" lineNum="91" pc="268443236" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="95" pc="268443248" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="96" pc="268443417" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="97" pc="268443450" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="98" pc="268443502" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="99" pc="268443643" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="100" pc="268443784" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="101" pc="268443925" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="102" pc="268444026" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="103" pc="268444127" symbol="StatsLayout"/>
+<entry filename="Rez" id="137" lineNum="106" pc="268444228" symbol="StatsLayout"/>
+<entry filename="Rez" id="138" lineNum="117" pc="268444306" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="121" pc="268444318" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="122" pc="268444474" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="123" pc="268444507" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="124" pc="268444559" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="125" pc="268444715" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="126" pc="268444748" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="127" pc="268444800" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="128" pc="268444956" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="129" pc="268444989" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="130" pc="268445041" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="131" pc="268445197" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="132" pc="268445230" symbol="user"/>
+<entry filename="Rez" id="138" lineNum="135" pc="268445282" symbol="user"/>
+<entry filename="Rez" id="139" lineNum="146" pc="268445330" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="150" pc="268445342" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="151" pc="268445458" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="152" pc="268445510" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="153" pc="268445679" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="154" pc="268445712" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="155" pc="268445764" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="156" pc="268445948" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="157" pc="268445981" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="158" pc="268446033" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="159" pc="268446079" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="160" pc="268446248" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="161" pc="268446281" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="162" pc="268446333" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="163" pc="268446449" symbol="SecondLayout"/>
+<entry filename="Rez" id="139" lineNum="166" pc="268446501" symbol="SecondLayout"/>
+</pcToLineNum>
+<symbolTable>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="24" object="true" symbol="StatsView"/>
+<entry id="23" object="true" symbol="SwitchViewApp"/>
+<entry id="35" method="true" symbol="refresh"/>
+<entry field="true" id="61" symbol="arrow_Bot"/>
+<entry field="true" id="32" symbol="nbPasActuel"/>
+<entry field="true" id="33" symbol="step"/>
+<entry id="11" object="true" symbol="SwitchViewDelegate"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="8389349" symbol="justification"/>
+<entry id="9" object="true" symbol="SwitchViewView"/>
+<entry field="true" id="70" symbol="url_Serveur"/>
+<entry field="true" id="40" symbol="labelLigne03"/>
+<entry field="true" id="39" symbol="labelLigne02"/>
+<entry field="true" id="38" symbol="labelLigne01"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="63" object="true" symbol="MainMenu"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry id="8388643" module="true" symbol="Sensor"/>
+<entry field="true" id="49" symbol="lastStep"/>
+<entry field="true" id="50" symbol="rythmeCar"/>
+<entry field="true" id="76" symbol="labelPrev"/>
+<entry id="8389082" method="true" symbol="onNextMode"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="34" symbol="image"/>
+<entry id="64" method="true" symbol="MainLayout"/>
+<entry id="51" method="true" symbol="onSensor"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry id="8388924" module="true" symbol="Gregorian"/>
+<entry field="true" id="45" symbol="labelTest"/>
+<entry field="true" id="37" symbol="labelInfo"/>
+<entry field="true" id="25" symbol="timer"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry field="true" id="73" symbol="AppName"/>
+<entry field="true" id="41" symbol="objectifQuotidien"/>
+<entry field="true" id="30" symbol="view"/>
+<entry id="52" method="true" symbol="makeRequest"/>
+<entry id="8389594" symbol="headers"/>
+<entry field="true" id="60" symbol="arrow_Top"/>
+<entry id="18" object="true" symbol="StatsDelegate"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8389078" method="true" symbol="onNextPage"/>
+<entry field="true" id="46" symbol="labelStep"/>
+<entry id="80" symbol="item_2"/>
+<entry id="79" symbol="item_1"/>
+<entry field="true" id="78" symbol="labelNext"/>
+<entry field="true" id="62" symbol="LauncherIcon"/>
+<entry field="true" id="71" symbol="menu_label_2"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="69" symbol="menu_label_1"/>
+<entry id="8388786" method="true" symbol="method"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry field="true" id="59" symbol="burn"/>
+<entry id="8389083" method="true" symbol="onPreviousMode"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry id="44" method="true" symbol="avancement"/>
+<entry field="true" id="8389065" symbol="locY"/>
+<entry field="true" id="8389064" symbol="locX"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="58" symbol="Heart"/>
+<entry id="68" method="true" symbol="SecondLayout"/>
+<entry id="66" method="true" symbol="StatsLayout"/>
+<entry id="36" method="true" symbol="verifyTime"/>
+<entry field="true" id="75" symbol="seconde"/>
+<entry id="8389348" symbol="font"/>
+<entry id="54" method="true" symbol="calculateCal"/>
+<entry field="true" id="28" symbol="pourcentageBat"/>
+<entry id="19" object="true" symbol="UserView"/>
+<entry id="8389347" symbol="color"/>
+<entry field="true" id="74" symbol="lblName"/>
+<entry field="true" id="47" symbol="labelHeart"/>
+<entry field="true" id="8389338" symbol="minute"/>
+<entry id="8389109" method="true" symbol="onMenuItem"/>
+<entry field="true" id="27" symbol="labelDay"/>
+<entry id="21" object="true" symbol="View05"/>
+<entry id="22" object="true" symbol="View04"/>
+<entry id="16" object="true" symbol="View03"/>
+<entry id="13" object="true" symbol="View02"/>
+<entry field="true" id="8388911" symbol="distance"/>
+<entry id="56" module="true" symbol="Layouts"/>
+<entry field="true" id="26" symbol="jour"/>
+<entry field="true" id="72" symbol="prompt"/>
+<entry id="8389079" method="true" symbol="onPreviousPage"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry id="42" method="true" symbol="define"/>
+<entry id="20" object="true" symbol="Delegate05"/>
+<entry id="17" object="true" symbol="Delegate04"/>
+<entry id="15" object="true" symbol="Delegate03"/>
+<entry id="14" object="true" symbol="Delegate02"/>
+<entry id="8389345" symbol="rezId"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry id="43" method="true" symbol="pourcentage"/>
+<entry id="8389844" symbol="responseType"/>
+<entry id="8389346" symbol="text"/>
+<entry field="true" id="57" symbol="feet"/>
+<entry id="65" method="true" symbol="MainLayout02"/>
+<entry field="true" id="8389063" symbol="identifier"/>
+<entry id="12" object="true" symbol="SwitchViewMenuDelegate"/>
+<entry id="55" module="true" symbol="Menus"/>
+<entry id="10" object="true" symbol="UserDelegate"/>
+<entry field="true" id="77" symbol="labelActual"/>
+<entry id="53" method="true" symbol="onReceive"/>
+<entry field="true" id="31" symbol="clock"/>
+<entry field="true" id="48" symbol="labelCalories"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry id="67" method="true" symbol="user"/>
+<entry field="true" id="29" symbol="stats"/>
+<entry id="8388635" module="true" symbol="Application"/>
+</symbolTable>
+<localVars>
+<entry endPc="268435598" name="dc" stackId="1" startPc="268435556"/>
+<entry endPc="268435940" name="dc" stackId="1" startPc="268435765"/>
+<entry endPc="268436476" name="temp" stackId="1" startPc="268436293"/>
+<entry endPc="268436868" name="item" stackId="1" startPc="268436793"/>
+<entry endPc="268436933" name="dc" stackId="1" startPc="268436891"/>
+<entry endPc="268437122" name="dc" stackId="1" startPc="268436938"/>
+<entry endPc="268437788" name="dc" stackId="1" startPc="268437746"/>
+<entry endPc="268437977" name="dc" stackId="1" startPc="268437793"/>
+<entry endPc="268438489" name="dc" stackId="1" startPc="268438447"/>
+<entry endPc="268438800" name="dc" stackId="1" startPc="268438494"/>
+<entry endPc="268439101" name="msgTemp" stackId="1" startPc="268438944"/>
+<entry endPc="268439549" name="dc" stackId="1" startPc="268439507"/>
+<entry endPc="268439609" name="dc" stackId="1" startPc="268439554"/>
+<entry endPc="268439924" name="tmpM" stackId="2" startPc="268439752"/>
+<entry endPc="268439924" name="tmpS" stackId="1" startPc="268439752"/>
+<entry endPc="268439995" name="dc" stackId="1" startPc="268439953"/>
+<entry endPc="268440184" name="dc" stackId="1" startPc="268440000"/>
+<entry endPc="268440217" name="state" stackId="1" startPc="268440212"/>
+<entry endPc="268440222" name="state" stackId="1" startPc="268440217"/>
+<entry endPc="268440433" name="dc" stackId="1" startPc="268440391"/>
+<entry endPc="268440595" name="dc" stackId="1" startPc="268440438"/>
+<entry endPc="268440734" name="sensorInfo" stackId="1" startPc="268440595"/>
+<entry endPc="268441455" name="options" stackId="4" startPc="268440994"/>
+<entry endPc="268441455" name="url" stackId="1" startPc="268440994"/>
+<entry endPc="268441455" name="headers" stackId="3" startPc="268440994"/>
+<entry endPc="268441455" name="params" stackId="2" startPc="268440994"/>
+<entry endPc="268441521" name="responseCode" stackId="1" startPc="268441456"/>
+<entry endPc="268441521" name="data" stackId="2" startPc="268441456"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_lblTime_fontHeight" stackId="5" startPc="268441691"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_battery" stackId="3" startPc="268441691"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_feet" stackId="7" startPc="268441691"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_lblStep" stackId="6" startPc="268441691"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_lblTime" stackId="4" startPc="268441691"/>
+<entry endPc="268442626" name="rez_cmp_local_bitmap_lblday" stackId="2" startPc="268441691"/>
+<entry endPc="268442627" name="dc" stackId="1" startPc="268441679"/>
+<entry endPc="268443235" name="rez_cmp_local_bitmap_lbChrono_fontHeight" stackId="3" startPc="268442639"/>
+<entry endPc="268443235" name="rez_cmp_local_bitmap_lblName_fontHeight" stackId="5" startPc="268442639"/>
+<entry endPc="268443235" name="rez_cmp_local_bitmap_lbChrono" stackId="2" startPc="268442639"/>
+<entry endPc="268443235" name="rez_cmp_local_bitmap_lblName" stackId="4" startPc="268442639"/>
+<entry endPc="268443236" name="dc" stackId="1" startPc="268442627"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_Calories" stackId="6" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_feet" stackId="7" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_name" stackId="2" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_burn" stackId="9" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_Heart" stackId="8" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_HeartRate" stackId="4" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_Steps" stackId="5" startPc="268443248"/>
+<entry endPc="268444305" name="rez_cmp_local_bitmap_name_fontHeight" stackId="3" startPc="268443248"/>
+<entry endPc="268444306" name="dc" stackId="1" startPc="268443236"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne03_fontHeight" stackId="9" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne01_fontHeight" stackId="5" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lblinfo_fontHeight" stackId="3" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lblinfo" stackId="2" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne03" stackId="8" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne02" stackId="6" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne01" stackId="4" startPc="268444318"/>
+<entry endPc="268445329" name="rez_cmp_local_bitmap_lbl_ligne02_fontHeight" stackId="7" startPc="268444318"/>
+<entry endPc="268445330" name="dc" stackId="1" startPc="268444306"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_arrow_Bot" stackId="9" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_next" stackId="7" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_previous_fontHeight" stackId="4" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_previous" stackId="3" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_next_fontHeight" stackId="8" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_test_fontHeight" stackId="6" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_test" stackId="5" startPc="268445342"/>
+<entry endPc="268446558" name="rez_cmp_local_bitmap_arrow_Top" stackId="2" startPc="268445342"/>
+<entry endPc="268446559" name="dc" stackId="1" startPc="268445330"/>
+</localVars>
+<annotations/>
+<functions>
+<functionEntry accessMode="public" name="initialize" parent="SwitchViewView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="SwitchViewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="SwitchViewView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="SwitchViewView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="refresh" parent="SwitchViewView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="verifyTime" parent="SwitchViewView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="SwitchViewView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="UserDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="SwitchViewDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SwitchViewMenuDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenuItem" parent="SwitchViewMenuDelegate">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="View02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="View02">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="View02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="View02">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="View02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="Delegate02">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="Delegate03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="View03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="View03">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="View03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="View03">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="View03">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="Delegate04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="StatsDelegate">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="UserView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="UserView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="define" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="pourcentage" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="avancement" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="UserView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onMenu" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextPage" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSelect" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousPage" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onPreviousMode" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onBack" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onNextMode" parent="Delegate05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="View05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="View05">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="View05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="View05">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="refresh" parent="View05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="verifyTime" parent="View05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="View05">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="View04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="View04">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="View04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="View04">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="View04">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="SwitchViewApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="SwitchViewApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="SwitchViewApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="getInitialView" parent="SwitchViewApp">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onLayout" parent="StatsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onUpdate" parent="StatsView">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onSensor" parent="StatsView">
+<param id="sensorInfo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="refresh" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="makeRequest" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onReceive" parent="StatsView">
+<param id="responseCode"/>
+<param id="data"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="calculateCal" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="StatsView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="MainMenu">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="MainLayout02" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="StatsLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="user" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+<functionEntry accessMode="public" name="SecondLayout" parent="Layouts">
+<param id="dc"/>
+<documentation><![CDATA[<div class="description"> Draw the layout<br/> param The context<br/></div>]]></documentation>
+</functionEntry>
+</functions>
+<dataEntryOffsetMappings>
+<dataEntry offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry offset="390" parentId="globals" symbolId="SwitchViewView" type="class"/>
+<dataEntry offset="565" parentId="globals" symbolId="UserView" type="class"/>
+<dataEntry offset="716" parentId="globals" symbolId="StatsView" type="class"/>
+<dataEntry offset="907" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry offset="986" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry offset="1065" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry offset="1104" parentId="Menus" symbolId="MainMenu" type="class"/>
+<dataEntry offset="1151" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry offset="1182" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry offset="1213" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry offset="1284" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry offset="1355" parentId="globals" symbolId="UserDelegate" type="class"/>
+<dataEntry offset="1458" parentId="globals" symbolId="SwitchViewDelegate" type="class"/>
+<dataEntry offset="1561" parentId="globals" symbolId="SwitchViewMenuDelegate" type="class"/>
+<dataEntry offset="1616" parentId="globals" symbolId="SwitchViewApp" type="class"/>
+<dataEntry offset="1687" parentId="globals" symbolId="View05" type="class"/>
+<dataEntry offset="1814" parentId="globals" symbolId="View04" type="class"/>
+<dataEntry offset="1917" parentId="globals" symbolId="Delegate05" type="class"/>
+<dataEntry offset="2020" parentId="globals" symbolId="StatsDelegate" type="class"/>
+<dataEntry offset="2123" parentId="globals" symbolId="Delegate04" type="class"/>
+<dataEntry offset="2226" parentId="globals" symbolId="View03" type="class"/>
+<dataEntry offset="2329" parentId="globals" symbolId="View02" type="class"/>
+<dataEntry offset="2432" parentId="globals" symbolId="Delegate03" type="class"/>
+<dataEntry offset="2535" parentId="globals" symbolId="Delegate02" type="class"/>
+</dataEntryOffsetMappings>
+</debugInfo>

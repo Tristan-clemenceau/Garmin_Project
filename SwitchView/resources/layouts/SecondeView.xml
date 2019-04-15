@@ -1,0 +1,10 @@
+<layout id="SecondLayout">
+
+	<!-- SECOND VIEW -->
+	<bitmap id="arrow_Top" x="center" y="0" filename="../drawables/Arrow_haut.png"/>
+	<label id ="previous" x="center" y="40" color="Graphics.COLOR_WHITE" text= "previous" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+	<label id ="test" x="center" y="center" font = "Toybox.Graphics.FONT_LARGE" color="Graphics.COLOR_WHITE" text= "hello" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+	<label id ="next" x="center" y="110" color="Graphics.COLOR_WHITE" text= "next" justification="Graphics.TEXT_JUSTIFY_CENTER" />
+	<bitmap id="arrow_Bot"  x="center" y="150" filename="../drawables/Arrow_bas.png"/>
+	
+</layout>
